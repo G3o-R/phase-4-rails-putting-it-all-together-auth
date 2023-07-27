@@ -220,3 +220,5 @@ your work. You should be able to run the full test suite now with `learn test`.
 
 You should also be able to test this in the React application by creating a new
 recipe with the recipe form, and viewing a list of recipes.
+
+https://github.com/G3o-R/phase-4-rails-putting-it-all-together-auth
